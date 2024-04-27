@@ -4,15 +4,15 @@
 <h1 align="center">Conecte-se comigo:</h1>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/gustavo-oliveira-161502212/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/gustavo-oliveira-cardoso-161502212/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <h1 align="center">Tecnologias</h1>
 <p align="center">Aqui mostro algumas tecnologias que eu utilizo.</p>
 
 <div align="center">
-  
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,php,cs,bootstrap,figma,mysql)
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,bootstrap,figma" />
 
 </div>
 
